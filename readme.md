@@ -27,4 +27,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthIJani&theme=github-dark-blue)](https://git.io/streak-stats)
 
-
+[![An image of @arthijani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arthijani)](https://holopin.io/@arthijani)
