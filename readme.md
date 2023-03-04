@@ -27,7 +27,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthIJani&theme=github-dark-blue)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github.com/ayroid/ayroid/raw/output/github-contribution-grid-snake.svg"
-alt="snake"></center>
-</p>
+
