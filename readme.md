@@ -7,7 +7,7 @@
 
 <!-- <img align="right" alt="Coding" width="370" style="border-radius:5px" src="https://github.com/Ayroid/Ayroid/blob/main/20221002_231734.png"> -->
 
-- 🌱 I’m currently learning *Python, Web Development & DSA.*
+- 🌱 I’m currently learning *Python, DSA & Machine Learning.*
 - ⚡ Interested in *Open Source Contributions.*
 - ❤️ Love creating *Small yet Interesting Projects!*
 - 📬 Contact me at *arth.jani2002@gmail.com*
