@@ -1,7 +1,7 @@
 <!--  [![MasterHead](https://github.com/Ayroid/Ayroid/blob/main/20221019_014220.jpg)](https://Ayroid.io)  -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="45" width="45"/>, I'm Arth I Jani</h1>
-<h3 align="center">3rd Year BTech Computer Science specialization in AI Student at Ganpat University.<br></h3>
+<h3 align="center">4th Year BTech Computer Science specialization in AI Student at Ganpat University.<br></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthijani&label=Profile%20views&color=0e75b6&style=flat" alt="arthjani" /> </p>
 
