@@ -29,7 +29,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="sklearn" width="40" height="40"/> </a> 
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" alt="pycharm" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="pycharm" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="40" height="40"/> </a> 
   </p>
 
