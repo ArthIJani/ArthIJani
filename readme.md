@@ -19,12 +19,12 @@
 <a href="https://www.linkedin.com/in/arth-jani-b06376205/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arth jani" height="30" width="40" />
 </a>
-<a href="https://leetcode.com/ArthJani22/" target="_blank">
+<!-- <a href="https://leetcode.com/ArthJani22/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arth jani" height="30" width="40" />
 </a>
 <a href="https://www.hackerrank.com/arth_jani2002" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arth jani" height="30" width="40" />
-</a>
+</a> -->
   <a href="https://x.com/ArthJani1" target="_blank">
     <img align="center" src="https://github.com/Ayroid/Ayroid/blob/main/icons8-twitterx-30.png" alt="arth jani" height="30" width="40" />
   </a>
