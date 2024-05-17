@@ -8,10 +8,10 @@
 <!-- <img align="right" alt="Coding" width="370" style="border-radius:5px" src="https://github.com/Ayroid/Ayroid/blob/main/20221002_231734.png"> -->
 
 <p align="center">
-- 🌱 I’m currently learning *Python, DSA & Machine Learning.*
-- ⚡ Interested in *Open Source Contributions.*
-- ❤️ Love creating *Small yet Interesting Projects!*
-- 📬 Contact me at *arth.jani2002@gmail.com* 
+- 🌱 I’m currently learning *Python, DSA & Machine Learning.*<br>
+- ⚡ Interested in *Open Source Contributions.*<br>
+- ❤️ Love creating *Small yet Interesting Projects!*<br>
+- 📬 Contact me at *arth.jani2002@gmail.com* <br>
 </p>
 
 <h3 align="center">Connect with me:</h3>
