@@ -7,10 +7,12 @@
 
 <!-- <img align="right" alt="Coding" width="370" style="border-radius:5px" src="https://github.com/Ayroid/Ayroid/blob/main/20221002_231734.png"> -->
 
+<p align="center">
 - 🌱 I’m currently learning *Python, DSA & Machine Learning.*
 - ⚡ Interested in *Open Source Contributions.*
 - ❤️ Love creating *Small yet Interesting Projects!*
-- 📬 Contact me at *arth.jani2002@gmail.com*
+- 📬 Contact me at *arth.jani2002@gmail.com* 
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -44,7 +46,8 @@
 
 <h2 align="center">Stats</h2>
 <p align="center"> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthIJani&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ArthJani" width="357"/> &ensp; &ensp; 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthIJani&layout=compact&theme=midnight-purple" alt="Arth" width="425"/></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthIJani&theme=github-dark-blue)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthIJani&theme=github-dark-blue)](https://git.io/streak-stats) -->
 
 [![An image of @arthijani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arthijani)](https://holopin.io/@arthijani)
