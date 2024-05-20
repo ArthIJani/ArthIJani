@@ -35,13 +35,17 @@
  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-red.svg?style=for-the-badge&logo=Streamlit&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-darkgreen.svg?style=for-the-badge&logo=Django&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-%2300000f.svg?style=for-the-badge&logo=Flask&logoColor=white) 
 
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-%29ABE2.svg?style=for-the-badge&logo=Scikit-Learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange.svg?style=for-the-badge&logo=Scikit-Learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
