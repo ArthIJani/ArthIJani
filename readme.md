@@ -86,8 +86,12 @@
 
 
 <h2 align="center">Stats</h2>
-<p align="center"> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthIJani&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ArthJani" width="357"/> &ensp; &ensp; 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthIJani&layout=compact&theme=midnight-purple" alt="Arth" width="425"/></p>
+
+![](https://github-readme-stats.vercel.app/api?username=ArthIJani&show_icons=true&locale=en&layout=compact&theme=midnight-purple&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ArthIJani&show_icons=true&locale=en&layout=compact&theme=midnight-purple)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArthIJani&layout=compact&theme=midnight-purple)
+<!--<p align="center"> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthIJani&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ArthJani" width="357"/> &ensp; &ensp; 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthIJani&layout=compact&theme=midnight-purple" alt="Arth" width="425"/></p>-->
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthIJani&theme=github-dark-blue)](https://git.io/streak-stats) -->
 
