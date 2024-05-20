@@ -8,10 +8,10 @@
 <!-- <img align="right" alt="Coding" width="370" style="border-radius:5px" src="https://github.com/Ayroid/Ayroid/blob/main/20221002_231734.png"> -->
 
 <p align="center">
-- 🌱 I’m currently learning *Python, DSA & Machine Learning.*<br>
-- ⚡ Interested in *Open Source Contributions.*<br>
-- ❤️ Love creating *Small yet Interesting Projects!*<br>
-- 📬 Contact me at *arth.jani2002@gmail.com* <br>
+- 🌱 I’m currently learning <b>Python, DSA & Machine Learning.</b><br>
+- ⚡ Interested in <b>Open Source Contributions.</b><br>
+- ❤️ Love creating <b>Small yet Interesting Projects!</b><br>
+- 📬 Contact me at <b><a href="arth.jani2002@gmail.com">arth.jani2002@gmail.com</a></b><br>
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -30,8 +30,7 @@
   </a>
 </p>
 <br>
-<h3 align="center">Tech Stack</h3>
-
+<h3 align="center">Tech Stacks:</h3>
  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
@@ -57,6 +56,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
 
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
